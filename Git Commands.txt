@@ -6,8 +6,3 @@ $ git commit -m "adding files"
 $ git remote add origin url
 $ git push -u origin main
 $ git push -u origin master
-
-
-
-
-
