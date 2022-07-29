@@ -1,0 +1,13 @@
+$ git init
+$ git config user.name "iamrayshudul"
+$ git config user.email "rayshudul@gmail.com"
+$ git add .
+$ git commit -m "adding files"
+$ git remote add origin url
+$ git push -u origin main
+
+
+
+
+
+
